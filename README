@@ -1,0 +1,26 @@
+# Bandit Algorithm README
+
+In this repository, you will find Python code for implementing bandit algorithms, specifically the epsilon-greedy and Thompson Sampling algorithms. These algorithms are designed to help you solve the multi-armed bandit problem where you aim to maximize your rewards by choosing the best arm (action) over time.
+
+## Bandit Class
+
+The core of the code is a Bandit abstract class with abstract methods. This class serves as the foundation for implementing bandit algorithms. You should not exclude any components from the Bandit class, but you are free to add any additional functionality as needed.
+
+
+## Documentation
+
+The code is thoroughly documented with comments to help you understand the structure and purpose of each function and class. If you need additional information or have questions about how to use the code, refer to the comments within the code itself.
+
+## Requirements
+
+The code relies on several Python libraries, including:
+- `numpy`
+- `matplotlib`
+- `pandas`
+
+Please ensure that you have these libraries installed before running the code.
+
+## License
+
+This code is provided under an open-source license, and you are free to modify and use it for your own purposes. Please refer to the license file included in this repository for more details.
+
